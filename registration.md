@@ -3,8 +3,8 @@
 
 예]
 
-* 이정근 / 학번 / jeonggun.lee@gmail.com / [이력서 주소](https://github.com/jeonggunlee/jeonggunlee.github.io)
-  Comments: 한림대 오픈소스 교육센터 화이팅!
+* 이정근 / 학년 / 학번 / jeonggun.lee@gmail.com / [이력서 주소](https://github.com/jeonggunlee/jeonggunlee.github.io)
+
   
   
 
