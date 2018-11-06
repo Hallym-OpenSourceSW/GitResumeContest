@@ -35,7 +35,10 @@ Github를 이용한 이력서 콘테스트는 소프트웨어 위크 기간 중 
       - 2등상: 10마일리지 추가 제공
 
 ## 4. 이력서(Portfolio) 등록
-   - 등록 방법
-   > 등록 방법은 통상의 Github Conbritution의 절차와 유사합니다.
+   - 등록 방법: 등록 방법은 통상의 Github Conbritution의 절차와 유사합니다.
+      - https://github.com/Hallym-OpenSourceSW/GitResumeContest 를 Fork하여 자신의 Github 사이트로 가져간 후
+      - 자신의 이력서 페이지를 업로드하여 등록하고, Pull Request / Commit 요청을 날리면 됩니다!
+      
+      
 
 
