@@ -4,6 +4,7 @@
 예]
 
 * 이정근 / 학년 / 학번 / jeonggun.lee@gmail.com / [이력서 주소](https://github.com/jeonggunlee/jeonggunlee.github.io)
+* 여기에 여러분의 정보와 이력서 Github 링크를 넣어주세요!!!
 
   
   
