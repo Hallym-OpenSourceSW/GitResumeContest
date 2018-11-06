@@ -6,7 +6,7 @@
 Github를 이용한 이력서 콘테스트는 소프트웨어 위크 기간 중 하나의 대회로써 열리며, 학생 여러분들이 Github에 좀더 친숙해 질 수 있는 계기가 될 수 있기를 기원합니다.
 
 *  *  *
-<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
+<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="160" height="160"/>
 
 
 ## 1. 목적
