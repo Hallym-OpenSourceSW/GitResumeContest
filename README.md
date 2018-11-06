@@ -50,6 +50,6 @@ Github를 이용한 이력서 콘테스트는 소프트웨어 위크 기간 중 
 ## 5. 기타 문의 사항
    - jeonggun.lee@gmail.com으로 문의 바랍니다.
    
-
-
+*  *  *
+![Poster](https://github.com/Hallym-OpenSourceSW/GitResumeContest/blob/master/git_resume_poster.png)
 
