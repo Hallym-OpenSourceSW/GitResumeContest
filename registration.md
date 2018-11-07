@@ -1,11 +1,16 @@
-## 이력서 등록 페이지입니다.
-### 여러분의 멋진 Portfolio Github 주소를 Commit으로 날려주세요!
+## 이력서
 
-예]
+|  | 내용 |
+|:---|:---|
+| 이름 | 정성민 |
+| 소속 | 타 중심대학 학생 |
+| 학년 | 2학년 |
+| 학번 | 15학번 |
+| 메일 | jspiner@naver.com |
+| 이력서 주소 | [github.com/JSpiner/RESUME](https://github.com/JSpiner/RESUME) |
 
-* 이정근 / 학년 / 학번 / jeonggun.lee@gmail.com / [이력서 주소](https://github.com/jeonggunlee/jeonggunlee.github.io)
-* 여기에 여러분의 정보와 이력서 Github 링크를 넣어주세요!!!
-
-  
+## 기타
+제 이력서를 참고자료로 사용해주셔서 감사합니다!
+많은 도움이 되셨다면 [star](https://github.com/JSpiner/RESUME/stargazers) 부탁드립니다.
   
 
