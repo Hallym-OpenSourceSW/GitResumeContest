@@ -1,16 +1,12 @@
-## 이력서
+## 이력서 등록장입니다. 형식에 맞추어 등록해주시면 감사드리겠습니다.
 
-|  | 내용 |
-|:---|:---|
-| 이름 | 정성민 |
-| 소속 | 타 중심대학 학생 |
-| 학년 | 2학년 |
-| 학번 | 15학번 |
-| 메일 | jspiner@naver.com |
-| 이력서 주소 | [github.com/JSpiner/RESUME](https://github.com/JSpiner/RESUME) |
-
-## 기타
-제 이력서를 참고자료로 사용해주셔서 감사합니다!
-많은 도움이 되셨다면 [star](https://github.com/JSpiner/RESUME/stargazers) 부탁드립니다.
+  - 이름 / 학년 / 학번 / Github 이력서 링크
   
+>예)
+>
+>  - 이정근 / 10학년 / 12345678 / [이정근 Github 이력서] (https://github.com/jeonggunlee/jeonggunlee.github.io)
+
+
+
+
 
