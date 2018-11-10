@@ -13,7 +13,8 @@
   - 참고 사이트
      - http://abhikmitra.github.io/
      - https://ryexley.github.io/
-     - https://gmlwjd9405.github.io/2017/10/06/Jekyll-github.io-blog-3.html : 블로그의 형태를 자신의 이력서 형태로 변경해도 좋습니다!
+     - https://gmlwjd9405.github.io/2017/10/06/Jekyll-github.io-blog-3.html
+         - 블로그의 형태를 자신의 이력서 형태로 변경해도 좋습니다!
      - https://github.com/JSpiner/RESUME
      - 기타 인터넷을 통해 습득된 다양한 템플릿을 활용하여 수정 후 등록하여도 무방합니다!
 
