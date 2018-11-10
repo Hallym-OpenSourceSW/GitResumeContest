@@ -47,8 +47,8 @@
 ## 4. 이력서(Portfolio) 등록
    - 등록 방법: 등록 방법은 통상의 Github Conbritution의 절차와 유사합니다.
       - https://github.com/Hallym-OpenSourceSW/GitResumeContest 를 Fork하여 자신의 Github 사이트로 가져간 후
-      - ``registration.md`` 를 수정하여 자신의 이름, 학년/학번, 이메일 및 자신의 Github 이력서 페이지 링크를 수정하여 주시고
-      - 최종적으로 수정된 registration.md에 대한 ``Pull Request / Commit`` 요청을 날리면 됩니다!
+      - [registration.md](https://github.com/Hallym-OpenSourceSW/GitResumeContest/blob/master/registration.md) 를 수정하여 자신의 이름, 학년/학번, 이메일 및 자신의 Github 이력서 페이지 링크를 추가하여 수정하여 주시고
+      - 최종적으로 수정된 [registration.md](https://github.com/Hallym-OpenSourceSW/GitResumeContest/blob/master/registration.md)에 대한 ``Pull Request / Commit`` 요청을 날리면 됩니다!
       
       
 
