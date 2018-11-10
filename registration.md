@@ -4,7 +4,7 @@
   
 >예)
 >
->  - 이정근 / 10학년 / 12345678 / [이정근 Github 이력서] (https://github.com/jeonggunlee/jeonggunlee.github.io)
+>  - 이정근 / 10학년 / 12345678 / [이정근 Github 이력서](https://github.com/jeonggunlee/jeonggunlee.github.io)
 
 
 
