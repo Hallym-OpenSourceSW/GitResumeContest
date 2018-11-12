@@ -6,4 +6,6 @@
 예)
 
   - 이정근 / 10학년 / 12345678 / jeonggun.lee@gmail.com / [이정근 Github 이력서](https://github.com/jeonggunlee/jeonggunlee.github.io)
+  
+* 등록
   - 임병준 / 3학년 / 20165157 / fortress0427@naver.com / https://github.com/BJ-Lim/RESUME
