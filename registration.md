@@ -1,1 +1,1 @@
-- 장경수 / 2학년 / 20125255 / ffotturish@naver.com / https://github.com/Yossarian92/Resume
+- 장경수 / 2학년 / 20125255 / ffotturish@naver.com 
