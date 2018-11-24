@@ -7,6 +7,8 @@
 예)
 
   - 0) 이정근 / 10학년 / 12345678 / jeonggun.lee@gmail.com
+
+*  *  *
   
 * **4학년**
   - 김동영 / 4학년 / 20125107 / dongyoung0218@gmail.com
