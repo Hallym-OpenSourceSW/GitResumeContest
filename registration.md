@@ -16,16 +16,16 @@
   - 이승재 / 4학년 / 20125331 / zzanggu3026@naver.com  
   
 * **3학년**
+  - 김재석 / 3학년 / 20157131 / khk37601@gmail.com
+  - 염희수 / 3학년 / 20165143 / 2016gmltn@naver.com
   - 임병준 / 3학년 / 20165157 / fortress0427@naver.com
   - 정재민 / 3학년 / 20145170 / woalsdl500@naver.com
-  - 염희수 / 3학년 / 20165143  / 2016gmltn@naver.com
-  - 김재석 / 3학년 / 20157131 / khk37601@gmail.com
-
+   
 * **2학년**
-  - 장경수 / 2학년 / 20125255 / ffotturish@naver.com 
-  - 김동영 / 2학년 / 20175111 / klgh1256@s.hallym.ac.kr
   - 강보경 / 2학년 / 20175103 / 20175103@s.hallym.ac.kr  
-
+  - 김동영 / 2학년 / 20175111 / klgh1256@s.hallym.ac.kr
+  - 장경수 / 2학년 / 20125255 / ffotturish@naver.com 
+  
 * **1학년**
   - 최명근 / 1학년 / 20185301 / soc06212@gmail.com
 
