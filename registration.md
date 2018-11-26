@@ -27,6 +27,7 @@
   - 장경수 / 2학년 / 20125255 / ffotturish@naver.com 
   - 김동영 / 2학년 / 20175111 / klgh1256@s.hallym.ac.kr
   - 강보경 / 2학년 / 20175103 / 20175103@s.hallym.ac.kr  
+  - 이화준 / 2 / 201753333 / swag0090@naver.com
 
 * **1학년**
   - 최명근 / 1학년 / 20185301 / soc06212@gmail.com
