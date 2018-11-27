@@ -16,6 +16,7 @@
   - 이승재 / 4학년 / 20125331 / zzanggu3026@naver.com  
   
 * **3학년**
+  - 박성미 / 3학년 / 20166405 / 2ricecake@naver.com
   - 임병준 / 3학년 / 20165157 / fortress0427@naver.com
   - 정재민 / 3학년 / 20145170 / woalsdl500@naver.com
   - 염희수 / 3학년 / 20165143  / 2016gmltn@naver.com
