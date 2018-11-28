@@ -22,6 +22,7 @@
   - 김재석 / 3학년 / 20157131 / khk37601@gmail.com
   - 이화성 / 3학년 / 20167158 / ehs9652@naver.com
   - 박성진 / 3학년 / 20145124 / seongjin2710@naver.com
+  - 박성미 / 3학년 / 20166405 / 2ricecake@naver.com
   
 * **2학년**
   - 장경수 / 2학년 / 20125255 / ffotturish@naver.com 
@@ -30,12 +31,14 @@
   - 이화준 / 2학년 / 201753333 / swag0090@naver.com
 
 * **1학년**
-  - 최명근 / 1학년 / 20185301 / soc06212@gmail.com  
+
+  - 최명근 / 1학년 / 20185301 / soc06212@gmail.com
+  - 강민정 / 1학년 / 20185201 / m_see@naver.com
   - 용권순 / 1학년 / 20185141 / yks3971@naver.com
+
 *  *  *
 
   - 타인의 Github Resume를 사용시, Star 또는 Watch 등을 클릭하여 감사의 마음을 전합시다!!!
   
 *  *  *
-현재 지원자 현황: 14명 - timestamp: 11월 26일 오후 11시 32분: 이화준 
-  - 13명 - timestamp: 11월 25일 오후 5시 42분
+현재 지원자 현황: 17명
